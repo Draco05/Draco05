@@ -1,8 +1,9 @@
-### Hi there 👋
-
+### Hey! I'm Caio Draco!
+- Universidade de Sao Paulo (ICMC) student
+- Salvador, Brazil
+- Languages I know: C, C++, Python
+- Trying to get into competitive programming
 <!--
-**Draco05/Draco05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
